@@ -1,0 +1,15 @@
+{
+    "name": "platformio-wch583m-sdk",
+    "version": "2.0.0",
+    "description": "https://github.com/eoe2005/platformio_wch583m_sdk",
+    "keywords": [
+      "framework",
+      "platformio-wch583m-sdk"
+    ],
+    "homepage": "https://github.com/eoe2005/platformio_wch583m_sdk",
+    "license": "Apache-2.0",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/eoe2005/platformio_wch583m_sdk"
+    }
+  }
